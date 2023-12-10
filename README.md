@@ -1,7 +1,5 @@
 # Industrial_copper_modelling
 
-**Problem Statement for README:**
-
 **Challenges in the Copper Industry: Leveraging Machine Learning for Optimal Decisions**
 
 The copper industry faces challenges in handling sales and pricing data that may exhibit skewness and noise, impacting the accuracy of manual predictions. Manually addressing these issues is time-consuming and may not yield optimal pricing decisions. To enhance accuracy and efficiency, a solution involving machine learning regression models is proposed. These models leverage advanced techniques like data normalization, feature scaling, and outlier detection, along with robust algorithms tailored for skewed and noisy data.
